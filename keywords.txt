@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For DFRobot_AHT20
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_AHT20	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################	
+
+begin	KEYWORD2
+reset	KEYWORD2
+startMeasurementReady	KEYWORD2
+getTemperature_F	KEYWORD2
+getTemperature_C	KEYWORD2
+getHumidity_RH	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
